@@ -1,0 +1,204 @@
+Uri: https://auraoneth.com/
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\index.htm
+Content Type: text/html
+
+Uri: https://fonts.gstatic.com/s/freeman/v1/S6u9w4NGQiLN8nh-SwaPGR_p.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\s\freeman\v1\S6u9w4NGQiLN8nh-SwaPGR_p.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/freeman/v1/S6u9w4NGQiLN8nh-SwePGR_p.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\s\freeman\v1\S6u9w4NGQiLN8nh-SwePGR_p.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/freeman/v1/S6u9w4NGQiLN8nh-SwiPGQ.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\s\freeman\v1\S6u9w4NGQiLN8nh-SwiPGQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/mousememoirs/v17/t5tmIRoSNJ-PH0WNNgDYxdSb3T7Prw.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\s\mousememoirs\v17\t5tmIRoSNJ-PH0WNNgDYxdSb3T7Prw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/mousememoirs/v17/t5tmIRoSNJ-PH0WNNgDYxdSb3TDPr6OH.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\s\mousememoirs\v17\t5tmIRoSNJ-PH0WNNgDYxdSb3TDPr6OH.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5HcVoGak8k5agFJSaKa4floXVu0.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\assets\5HcVoGak8k5agFJSaKa4floXVu0.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\assets\5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\assets\b6Y37FthZeALduNqHicBT6FutY.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/cugnVhSraaRyANCaUtI5FV17wk.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\assets\cugnVhSraaRyANCaUtI5FV17wk.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\assets\EOr0mi4hNtlgWNn9if640EZzXCo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/gQhNpS3tN86g8RcVKYUUaKt2oMQ.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\assets\gQhNpS3tN86g8RcVKYUUaKt2oMQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\assets\JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/jn4BtSPLlS0NDp1KiFAtFKiiY0o.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\assets\jn4BtSPLlS0NDp1KiFAtFKiiY0o.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/mkY5Sgyq51ik0AMrSBwhm9DJg.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\assets\mkY5Sgyq51ik0AMrSBwhm9DJg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\assets\OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/P2Bw01CtL0b9wqygO0sSVogWbo.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\assets\P2Bw01CtL0b9wqygO0sSVogWbo.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/vQyevYAyHtARFwPqUzQGpnDs.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\assets\vQyevYAyHtARFwPqUzQGpnDs.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/X5hj6qzcHUYv7h1390c8Rhm6550.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\assets\X5hj6qzcHUYv7h1390c8Rhm6550.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\assets\Y9k9QrlZAqio88Klkmbd8VoMQc.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/images/1RHWJZyo8q9Kx0COy9rQu5pYgs.jpg
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\images\1RHWJZyo8q9Kx0COy9rQu5pYgs.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/1RHWJZyo8q9Kx0COy9rQu5pYgs.jpg?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\images\1RHWJZyo8q9Kx0COy9rQu5pYgs-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/Bvm3zwfCs4dqkXcGNiHUyyUymjs.png
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\images\Bvm3zwfCs4dqkXcGNiHUyyUymjs.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/CG45CPULtf7J8vbFlc2nIJ1R3M.png
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\images\CG45CPULtf7J8vbFlc2nIJ1R3M.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/CG45CPULtf7J8vbFlc2nIJ1R3M.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\images\CG45CPULtf7J8vbFlc2nIJ1R3M-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/CG45CPULtf7J8vbFlc2nIJ1R3M.png?scale-down-to=2048
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\images\CG45CPULtf7J8vbFlc2nIJ1R3M-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/CG45CPULtf7J8vbFlc2nIJ1R3M.png?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\images\CG45CPULtf7J8vbFlc2nIJ1R3M-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/JGh6aPuTvwcCYKPs8WcCsXjss.jpg
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\images\JGh6aPuTvwcCYKPs8WcCsXjss.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/JGh6aPuTvwcCYKPs8WcCsXjss.jpg?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\images\JGh6aPuTvwcCYKPs8WcCsXjss-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/JGh6aPuTvwcCYKPs8WcCsXjss.jpg?scale-down-to=2048
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\images\JGh6aPuTvwcCYKPs8WcCsXjss-3.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/JGh6aPuTvwcCYKPs8WcCsXjss.jpg?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\images\JGh6aPuTvwcCYKPs8WcCsXjss-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/JnTg5XuRxA1QcW7UjqkY0iiSS1Q.png
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\images\JnTg5XuRxA1QcW7UjqkY0iiSS1Q.png
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/JnTg5XuRxA1QcW7UjqkY0iiSS1Q.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\images\JnTg5XuRxA1QcW7UjqkY0iiSS1Q-2.png
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/JnTg5XuRxA1QcW7UjqkY0iiSS1Q.png?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\images\JnTg5XuRxA1QcW7UjqkY0iiSS1Q-1.png
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/k3oVnDOPTZmmnLVdGWiAMevR30.png
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\images\k3oVnDOPTZmmnLVdGWiAMevR30.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/k3oVnDOPTZmmnLVdGWiAMevR30.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\images\k3oVnDOPTZmmnLVdGWiAMevR30-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/k3oVnDOPTZmmnLVdGWiAMevR30.png?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\images\k3oVnDOPTZmmnLVdGWiAMevR30-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/mHlLz8sulcm1olvT6sZYbJuiI.webp
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\images\mHlLz8sulcm1olvT6sZYbJuiI.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/mHlLz8sulcm1olvT6sZYbJuiI.webp?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\images\mHlLz8sulcm1olvT6sZYbJuiI-1.webp
+Content Type: image/webp
+
+Uri: https://framerusercontent.com/images/NTrPAyXAwxoQGj3YsaJ8Wre0Y5Q.png
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\images\NTrPAyXAwxoQGj3YsaJ8Wre0Y5Q.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/NTrPAyXAwxoQGj3YsaJ8Wre0Y5Q.png?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\images\NTrPAyXAwxoQGj3YsaJ8Wre0Y5Q-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/NTrPAyXAwxoQGj3YsaJ8Wre0Y5Q.png?scale-down-to=2048
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\images\NTrPAyXAwxoQGj3YsaJ8Wre0Y5Q-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/NTrPAyXAwxoQGj3YsaJ8Wre0Y5Q.png?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\images\NTrPAyXAwxoQGj3YsaJ8Wre0Y5Q-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/vO1GuqWWqUIo13Z13A6KmYOWASE.jpg
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\images\vO1GuqWWqUIo13Z13A6KmYOWASE.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/vO1GuqWWqUIo13Z13A6KmYOWASE.jpg?scale-down-to=1024
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\images\vO1GuqWWqUIo13Z13A6KmYOWASE-2.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/images/vO1GuqWWqUIo13Z13A6KmYOWASE.jpg?scale-down-to=512
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\images\vO1GuqWWqUIo13Z13A6KmYOWASE-1.jpg
+Content Type: image/jpeg
+
+Uri: https://framerusercontent.com/sites/2K461togBSndue7YicUXcB/chunk-ELYU6EKT.mjs
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\sites\2K461togBSndue7YicUXcB\chunk-ELYU6EKT.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2K461togBSndue7YicUXcB/chunk-R2MNL2QO.mjs
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\sites\2K461togBSndue7YicUXcB\chunk-R2MNL2QO.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2K461togBSndue7YicUXcB/chunk-XKKS7HR2.mjs
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\sites\2K461togBSndue7YicUXcB\chunk-XKKS7HR2.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2K461togBSndue7YicUXcB/default_script0.E3OBB5U5.mjs
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\sites\2K461togBSndue7YicUXcB\default_script0.E3OBB5U5.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/2K461togBSndue7YicUXcB/oFCoVDViW7gEm1xKJ1H6xjtxCip8RGrh8Z0Zu-X5Sxg.JYOZ4CAI.mjs
+File Name: C:\work\Downloaded Web Sites\17.01\auraoneth\auraoneth.com\sites\2K461togBSndue7YicUXcB\oFCoVDViW7gEm1xKJ1H6xjtxCip8RGrh8Z0Zu-X5Sxg.JYOZ4CAI.mjs
+Content Type: text/javascript
+
